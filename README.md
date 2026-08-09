@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS4Gentoo
+	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS | Gentoo Patch
 	</h1>
 	<p>Music production software | Patched for Gentoo Linux</p>
 	<p>
@@ -18,10 +18,16 @@
 	</p>
 </div>
 
-What is LMMS?
---------------
+Why the fork of LMMS?
+----------------------
 
-LMMS is an open-source cross-platform digital audio workstation designed for music production. It includes an advanced Piano Roll, Beat Sequencer, Song Editor, and Mixer for composing, arranging, and mixing music. It comes with 15+ synthesizer plugins by default, along with VST2 and SoundFont2 support.
+LMMS has an ebuild for Gentoo with broken LADSPA support. LMMS4Gentoo, as the name suggests, is not my work, nor am I claiming it as my own. It is simply a patch to ensure functionality on Gentoo Linux and other source based Distributions.
+
+Changes from LMMS Master
+------------------------
+* Install script with support for open<b>doas</b> and <b>sudo</b>
+* Automatic -DWANT_QT6=ON Flag (provided you run script)
+* This very README (kinda obvious but worth mentioning)
 
 Features
 ---------

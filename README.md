@@ -2,7 +2,7 @@
 	<h1>
 	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS
 	</h1>
-	<p>Cross-platform music production software</p>
+	<p>Cross-platform music production software | Patched for Gentoo Linux</p>
 	<p>
 		<a href="https://lmms.io/">Website</a>
 		⦁︎

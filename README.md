@@ -48,7 +48,8 @@ Building
 * Read the LMMS compiling Wiki to figure out deps
 * Clone the repository to /tmp
 * Enter the directory
-* Run the install.sh script
+* Add the execute mode to install.sh
+* Run the install.sh script OR follow the LMMS wiki passing the <b>-DWANT_QT6=ON</b> flag on the cmake command 
 
 Join LMMS-development
 ----------------------

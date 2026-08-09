@@ -3,19 +3,6 @@
 	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS | Gentoo Patch
 	</h1>
 	<p>Music production software | Patched for Gentoo Linux</p>
-	<p>
-		<a href="https://lmms.io/">Official Website</a>
-		⦁︎
-		<a href="https://github.com/LMMS/lmms/releases">Official Releases</a>
-		⦁︎
-		<a href="https://github.com/LMMS/lmms/wiki">Official Developer wiki</a>
-		⦁︎
-		<a href="https://lmms.io/documentation">User manual</a>
-		⦁︎
-		<a href="https://lmms.io/showcase/">Showcase</a>
-		⦁︎
-		<a href="https://lmms.io/lsp/">Sharing platform</a>
-	</p>
 </div>
 
 Why the fork of LMMS?

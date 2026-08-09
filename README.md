@@ -45,7 +45,10 @@ Features
 Building
 ---------
 
-See [Compiling LMMS](https://github.com/LMMS/lmms/wiki/Compiling)
+Read the LMMS compiling Wiki to figure out deps
+Clone the repository to /tmp
+Enter the directory
+Run the install.sh script
 
 Join LMMS-development
 ----------------------

@@ -21,7 +21,7 @@
 Why the fork of LMMS?
 ----------------------
 
-LMMS has an ebuild for Gentoo with broken LADSPA support. LMMS4Gentoo, as the name suggests, is not my work, nor am I claiming it as my own. It is simply a patch to ensure functionality on Gentoo Linux and other source based Distributions.
+Apart from compiling options and an install script, this is still fundamentally the same program. LMMS has an ebuild for Gentoo with broken LADSPA support. LMMS4Gentoo, as the name suggests, is not my work, nor am I claiming it as my own. It is simply a patch to ensure functionality on Gentoo Linux and other source based Distributions. The LMMS Devs also denied a simple installation script, so I put it here.
 
 Changes from LMMS Master
 ------------------------
@@ -49,12 +49,3 @@ Building
 * Enter the directory
 * Add the execute mode to install.sh
 * Run the install.sh script OR follow the LMMS wiki passing the <b>-DWANT_QT6=ON</b> flag on the cmake command 
-
-Join LMMS-development
-----------------------
-
-If you are interested in LMMS, its programming, artwork, testing, writing demo songs, (and improving this README...) or something like that, you're welcome to participate in the development of LMMS!
-
-Information about what you can do and how can be found in the [wiki](https://github.com/LMMS/lmms/wiki).
-
-Before coding a new big feature, please _always_ [file an issue](https://github.com/LMMS/lmms/issues/new) for your idea and suggestions about your feature and about the intended implementation on GitHub, or ask in one of the tech channels on Discord and wait for replies! Maybe there are different ideas, improvements, or hints, or maybe your feature is not welcome/needed at the moment.
